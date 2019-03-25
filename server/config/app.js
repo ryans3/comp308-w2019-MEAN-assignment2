@@ -64,7 +64,7 @@ app.use(flash());
 app.use(passport.initialize());
 app.use(passport.session());
 
-// pasport user configuration
+// passport user configuration
 
 // create a User model
 let userModel = require('../models/user');
