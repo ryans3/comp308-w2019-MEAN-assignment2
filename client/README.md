@@ -1,3 +1,6 @@
+Created by: Ryan Sterling 
+Student #: 300509648
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
