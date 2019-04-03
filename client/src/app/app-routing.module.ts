@@ -17,7 +17,7 @@ import { LoginComponent } from './pages/login/login.component';
 import { AuthGuard } from './guards/auth.guard';
 
 const routes: Routes = [
-  {path: 'home', component: HomeComponent, data: {title: 'Home', turtle:'pancake juices'}},
+  {path: 'home', component: HomeComponent, data: {title: 'pancake juices', turtle:''}},
   {path: 'about', component: AboutComponent, data: {title: 'About'}},
   {path: 'products', component: ProductsComponent, data: {title: 'Products'}},
   {path: 'services', component: ServicesComponent, data: {title: 'Services'}},
