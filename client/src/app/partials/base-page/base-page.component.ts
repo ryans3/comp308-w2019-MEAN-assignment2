@@ -7,12 +7,14 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./base-page.component.css']
 })
 export class BasePageComponent implements OnInit {
+  turtle: string;
   title: string;
 
   constructor(private route: ActivatedRoute) { }
 
   ngOnInit() {
     this.title = this.route.snapshot.data.title;
+    this.turtle = this.route.snapshot.data.turtle;
   }
 
 }
