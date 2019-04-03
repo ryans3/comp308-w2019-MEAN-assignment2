@@ -1,9 +1,18 @@
 #!/usr/bin/env node
 
 /**
+ * 
+Name of File: server.js
+Name: Ryan Sterling
+Student Number: 300509648
+Date: 3/26/2019
+
+ */
+/**
  * Module dependencies.
  */
 
+ 
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-lesson3b:server');
 let http = require('http');
