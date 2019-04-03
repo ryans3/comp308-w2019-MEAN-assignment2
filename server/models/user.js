@@ -1,3 +1,12 @@
+/**
+ * <!--
+Name of File: user.js
+Name: Ryan Sterling
+Student Number: 300509648
+Date: 3/26/2019
+-->
+
+ */
 // require modules for our User Model
 let mongoose = require("mongoose");
 let passportLocalMongoose = require("passport-local-mongoose");
