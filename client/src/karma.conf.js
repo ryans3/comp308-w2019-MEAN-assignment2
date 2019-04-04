@@ -1,6 +1,16 @@
 // Karma configuration file, see link for more information
 // https://karma-runner.github.io/1.0/config/configuration-file.html
 
+/**
+ * <!--
+Name of File: karma.conf.js
+Name: Ryan Sterling
+Student Number: 300509648
+Date: 3/26/2019
+-->
+
+ */
+
 module.exports = function (config) {
   config.set({
     basePath: '',
