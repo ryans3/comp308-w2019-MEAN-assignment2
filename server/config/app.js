@@ -1,3 +1,12 @@
+/**
+ * <!--
+Name of File: app.js
+Name: Ryan Sterling
+Student Number: 300509648
+Date: 3/26/2019
+-->
+
+ */
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
