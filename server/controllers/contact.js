@@ -1,3 +1,11 @@
+/*<!--
+Name of File: contact.js
+Name: Ryan Sterling
+Student Number: 300509648
+Date: 3/26/2019
+-->
+*/
+
 let express = require('express');
 let router = express.Router();
 let jwt = require('jsonwebtoken');
